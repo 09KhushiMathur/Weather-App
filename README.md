@@ -26,7 +26,7 @@ The application uses the OpenWeather API to fetch live weather data. API request
 
 ## Live Demo
 
-[View Weather App](ADD_YOUR_NETLIFY_LINK_HERE)
+[View Weather App](https://weather-dashboard-20.netlify.app/)
 
 ## GitHub Repository
 
